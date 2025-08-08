@@ -1,0 +1,24 @@
+{
+  "todolists": [
+    {
+      "id": "2",
+      "task": "wash",
+      "complete": true
+    },
+    {
+      "id": "3",
+      "task": "feed the pet",
+      "complete": true
+    },
+    {
+      "id": "4",
+      "task": "clean the bed",
+      "complete": true
+    },
+    {
+      "id": "9925",
+      "task": "wash the dishes",
+      "complete": false
+    }
+  ]
+}
